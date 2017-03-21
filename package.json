@@ -5,12 +5,6 @@
   "files": [
     "src"
   ],
-  "babel": {
-    "presets": [
-      "es2015-node6",
-      "stage-0"
-    ]
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/node-oca/example-hello-world.git"
@@ -19,10 +13,5 @@
   "license": "MIT",
   "dependencies": {
     "oca": "*"
-  },
-  "devDependencies": {
-    "babel-preset-es2015-node6": "^0.4.0",
-    "babel-preset-stage-0": "^6.22.0",
-    "babel-register": "^6.24.0"
   }
 }
